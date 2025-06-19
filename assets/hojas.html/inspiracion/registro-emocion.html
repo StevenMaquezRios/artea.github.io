@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Artea - Registro de Emoción</title>
+    <link rel="stylesheet" href="/style-navegacion.css" />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Registro de Emoción</h1>
+    </header>
+
+    <main class="registro-emocion">
+      <form id="emocion-form">
+        <label for="emocion">¿Cómo te sientes hoy?</label>
+        <input type="text" id="emocion" name="emocion" required />
+
+        <label for="descripcion">Descripción de la emoción:</label>
+        <textarea
+          id="descripcion"
+          name="descripcion"
+          rows="4"
+          required
+        ></textarea>
+
+        <button type="submit" class="btn-primario">Registrar Emoción</button>
+      </form>
+    </main>
+
+    <script src="/components.js" defer></script>
+  </body>
+</html>

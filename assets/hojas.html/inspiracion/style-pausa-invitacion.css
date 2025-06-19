@@ -1,0 +1,52 @@
+.pausa-invitacion {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f9f0e6;
+}
+
+.pausa-invitacion h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.pausa-invitacion p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+}
+
+.botones {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.btn-si {
+  background-color: #ff7a79;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn-omitir {
+  background-color: transparent;
+  border: 1.5px solid #ff7a79;
+  color: #000;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn-si:hover {
+  background-color: #e96565;
+}
+
+.btn-omitir:hover {
+  background-color: #ffe5e5;
+}

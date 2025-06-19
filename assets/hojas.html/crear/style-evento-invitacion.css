@@ -1,0 +1,29 @@
+.evento-invitacion {
+  text-align: center;
+  padding: 80px 20px;
+  background-color: #f9f0e6;
+}
+
+.evento-invitacion h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.evento-invitacion p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+}
+
+.btn-registrarme {
+  background-color: #f9b7a2;
+  padding: 12px 28px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-registrarme:hover {
+  background-color: #f59a85;
+}
