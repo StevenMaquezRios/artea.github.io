@@ -18,5 +18,6 @@ Landing Page de Artea: https://zdnlt5.csb.app/
 2. Psicólogos institucionales o personal de bienestar universitario, interesados en herramientas innovadoras que promuevan el autocuidado y el desarrollo emocional en estudiantes.
 
 - Principales Características de la Solución Digital:
-  Artea combina arteterapia digital con funciones como el registro emocional, recomendaciones personalizadas, visualización de tendencias, salas creativas en vivo y pausas emocionales. Su interfaz es amigable e intuitiva, permitiendo al usuario navegar libremente, compartir sus creaciones de forma anónima y explorar recursos complementarios. 
-  Es una propuesta integral que conecta la tecnología con el bienestar emocional, facilitando espacios seguros para el autoconocimiento y la expresión artística.
+1. Artea combina arteterapia digital con funciones como el registro emocional, recomendaciones personalizadas, visualización de tendencias, salas creativas en vivo y pausas emocionales.
+2. Su interfaz es amigable e intuitiva, permitiendo al usuario navegar libremente, compartir sus creaciones de forma anónima y explorar recursos complementarios. 
+3. Es una propuesta integral que conecta la tecnología con el bienestar emocional, facilitando espacios seguros para el autoconocimiento y la expresión artística.
