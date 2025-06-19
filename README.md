@@ -11,11 +11,11 @@ Landing Page de Artea: https://zdnlt5.csb.app/
  3.  Munayco Apolaya María Luisa.
 
 - Segmentos Objetivo:
-- Estudiantes universitarios que enfrentan altos niveles de estrés, ansiedad o desmotivación. 
+1. Estudiantes universitarios que enfrentan altos niveles de estrés, ansiedad o desmotivación. 
   edades: entre 17 y 25 años.
   Interés en explorar su mundo interior a través del arte y la creatividad.
 
-- Psicólogos institucionales o personal de bienestar universitario, interesados en herramientas innovadoras que promuevan el autocuidado y el desarrollo emocional en estudiantes.
+2. Psicólogos institucionales o personal de bienestar universitario, interesados en herramientas innovadoras que promuevan el autocuidado y el desarrollo emocional en estudiantes.
 
 - Principales Características de la Solución Digital:
   Artea combina arteterapia digital con funciones como el registro emocional, recomendaciones personalizadas, visualización de tendencias, salas creativas en vivo y pausas emocionales. Su interfaz es amigable e intuitiva, permitiendo al usuario navegar libremente, compartir sus creaciones de forma anónima y explorar recursos complementarios. 
