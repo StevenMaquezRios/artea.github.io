@@ -1,0 +1,77 @@
+.galeria-personal {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f9f0e6;
+}
+
+.galeria-personal h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.galeria-personal p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+}
+
+.recursos-guardados {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.recurso {
+  width: 140px;
+  padding: 15px;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.recurso img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.recurso.video {
+  background-color: #cce9f8;
+}
+.recurso.lectura {
+  background-color: #fce6a2;
+}
+.recurso.musica {
+  background-color: #bce3da;
+}
+
+.botones {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.btn-volver,
+.btn-explorar {
+  padding: 10px 20px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-volver {
+  background-color: #bce3da;
+}
+.btn-volver:hover {
+  background-color: #a4d3c8;
+}
+
+.btn-explorar {
+  background-color: #f9c4b2;
+}
+.btn-explorar:hover {
+  background-color: #f5a98a;
+}

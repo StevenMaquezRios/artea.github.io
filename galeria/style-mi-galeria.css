@@ -1,0 +1,63 @@
+.galeria-privada {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f9f0e6;
+}
+
+.galeria-privada h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.galeria-privada p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+}
+
+.obras-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  margin-bottom: 40px;
+}
+
+.obra {
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 15px;
+  width: 140px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.obra .fecha {
+  display: block;
+  font-size: 0.85rem;
+  margin-bottom: 8px;
+  color: #555;
+}
+
+.obra img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.obra p {
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.btn-nueva {
+  background-color: #bce3da;
+  padding: 12px 28px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-nueva:hover {
+  background-color: #a4d3c8;
+}

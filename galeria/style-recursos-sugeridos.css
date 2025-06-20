@@ -1,0 +1,56 @@
+.recursos-container {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f9f0e6;
+}
+
+.recursos-container h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.recursos-container p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+}
+
+.tarjetas-recursos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.tarjeta {
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px;
+  width: 200px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.tarjeta img {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 15px;
+}
+
+.tarjeta h3 {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.btn-ver {
+  background-color: #bce3da;
+  padding: 8px 20px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-ver:hover {
+  background-color: #a4d3c8;
+}

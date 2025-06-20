@@ -1,0 +1,29 @@
+.tendencias-facultad {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f9f0e6;
+}
+
+.tendencias-facultad h1 {
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.tendencias-facultad p {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+.tendencias-facultad select {
+  font-size: 1rem;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 1.5px solid #999;
+  margin-bottom: 30px;
+}
+
+.grafico img {
+  width: 100%;
+  max-width: 600px;
+}
