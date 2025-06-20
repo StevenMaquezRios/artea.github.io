@@ -1,0 +1,29 @@
+.evento-confirmacion {
+  text-align: center;
+  padding: 80px 20px;
+  background-color: #f9f0e6;
+}
+
+.evento-confirmacion h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.evento-confirmacion p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+}
+
+.btn-aceptar {
+  background-color: #f9b7a2;
+  padding: 12px 28px;
+  font-weight: 600;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-aceptar:hover {
+  background-color: #f59a85;
+}

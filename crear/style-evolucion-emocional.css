@@ -1,0 +1,61 @@
+.evolucion-emocional {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f9f0e6;
+}
+
+.evolucion-emocional h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+
+.comparacion {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.caja {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.caja p {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.imagen-emocion {
+  width: 130px;
+  height: 130px;
+  border-radius: 20px;
+  border: 2px dashed #aaa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+}
+
+.imagen-emocion img {
+  width: 60%;
+}
+
+.btn-explorar {
+  background-color: #ff7a79;
+  padding: 12px 30px;
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn-explorar:hover {
+  background-color: #e96565;
+}
