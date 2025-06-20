@@ -1,0 +1,63 @@
+.pausa-activa {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f9f0e6;
+}
+
+.pausa-activa h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.pausa-activa p {
+  font-size: 1.1rem;
+  margin-bottom: 25px;
+}
+
+.barra-progreso {
+  width: 60%;
+  max-width: 400px;
+  height: 10px;
+  background-color: #ddd;
+  border-radius: 10px;
+  margin: 0 auto 5px;
+  overflow: hidden;
+}
+
+.progreso {
+  width: 40%;
+  height: 100%;
+  background-color: #a9d08e;
+  transition: width 0.5s ease;
+}
+
+.tiempo-restante {
+  display: block;
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.contenido {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.contenido img {
+  width: 110px;
+  max-width: 100%;
+}
+
+.contenido p {
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+.corazon {
+  width: 60px;
+}

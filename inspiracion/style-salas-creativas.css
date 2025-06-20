@@ -1,0 +1,40 @@
+.salas-creativas-bienvenida {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #f9f0e6;
+}
+
+.salas-creativas-bienvenida h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.salas-creativas-bienvenida p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.salas-creativas-bienvenida img {
+  width: 300px;
+  max-width: 90%;
+  border-radius: 14px;
+  border: 1px solid #aaa;
+  margin-bottom: 30px;
+}
+
+.btn-continuar {
+  background-color: #ffe08c;
+  color: black;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-continuar:hover {
+  background-color: #f3cf63;
+}
